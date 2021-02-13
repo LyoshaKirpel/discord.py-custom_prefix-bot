@@ -1,0 +1,3 @@
+Standard prefix: "!" # the prefix that is set on the server by default
+
+Token: "your_token_here" # token for discord bot (https://discord.com/developers/applications)
