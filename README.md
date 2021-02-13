@@ -11,3 +11,5 @@ A bot where you can put different prefixes on different servers.
 * Run main&#46;py ("python main&#46;py" in Windows CMD or Linux Terminal.)
 
 P.S. - Add a bot to the server when the bot is enabled, so it will add your server to prefixes.json and write a prefix for it. If you add a bot to the server turned off, after turning it on, it will not respond to commands.
+
+If you get errors when installing dependencies or when starting the bot, try using Python 3.8.6.
